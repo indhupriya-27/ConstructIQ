@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>end user</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>1NYTEyaXC7AIQgbFpcNSXq3GlNuqBhjSHrgVyDUr0PE=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1968711_constr_0.end_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>end_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-04 18:02:52</sys_created_on>
+        <sys_id>9a5232653b888310f72a8e0f23e45a2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1968711_constr_0.end_user</sys_name>
+        <sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope>
+        <sys_update_name>sys_user_role_9a5232653b888310f72a8e0f23e45a2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-04 18:02:52</sys_updated_on>
+    </sys_user_role>
+</record_update>
