@@ -2,7 +2,9 @@
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="abd5b6693b8c8310f72a8e0f23e45afe" extends="task" label="Device Request" max_length="40" name="x_1968711_constr_0_device_request" type="collection">
         <element choice="1" label="State" max_length="255" name="stat0" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Cancelled" value="Cancelled"/>
+                <element inactive_on_update="false" label="Delivery Failed" value="delivery failed"/>
+                <element inactive_on_update="false" label="In-Progress" value="in-progress"/>
+                <element inactive_on_update="false" label="Cancelled" value="cancelled"/>
                 <element inactive_on_update="false" label="Delivered" value="delivered"/>
             </choice>
         </element>
@@ -10,6 +12,7 @@
         <element label="Requestor Name" mandatory="true" max_length="32" name="requestor_name" reference="sys_user" type="reference"/>
         <element label="Device Name" mandatory="true" max_length="32" name="reference" reference="x_1968711_constr_0_ai_devices" type="reference"/>
         <element label="Demo" max_length="40" name="demo" type="string"/>
+        <element label="Reminder for pickup" max_length="255" name="reminder_for_pickup" type="calendar_date_time"/>
         <element label="Price" max_length="20" name="price" read_only="true" read_only_option="display_read_only" type="currency"/>
         <element label="Model" max_length="40" name="model" read_only="true" read_only_option="display_read_only" type="string"/>
         <element label="Warranty Date" max_length="255" name="warranty_date" read_only="true" read_only_option="display_read_only" type="glide_date"/>
