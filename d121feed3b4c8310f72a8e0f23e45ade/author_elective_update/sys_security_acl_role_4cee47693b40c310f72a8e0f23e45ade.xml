@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-04 20:07:02</sys_created_on>
+        <sys_id>4cee47693b40c310f72a8e0f23e45ade</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1968711_constr_0_ai_devices.x_1968711_constr_0.device_management</sys_name>
+        <sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope>
+        <sys_security_acl display_value="x_1968711_constr_0_ai_devices">0cee47693b40c310f72a8e0f23e45ad5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4cee47693b40c310f72a8e0f23e45ade</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-04 20:07:02</sys_updated_on>
+        <sys_user_role display_value="x_1968711_constr_0.device_management" name="x_1968711_constr_0.device_management">d52132213b8c8310f72a8e0f23e45a09</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</application>
+        <file_path/>
+        <instance_id>e31d1d913b40039816e44a8aa4e45a17</instance_id>
+        <instance_name>dev372601</instance_name>
+        <name>sys_security_acl_role_4cee47693b40c310f72a8e0f23e45ade</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-04 20:07:02</sys_created_on><sys_id>4cee47693b40c310f72a8e0f23e45ade</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1968711_constr_0_ai_devices.x_1968711_constr_0.device_management</sys_name><sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package><sys_policy/><sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope><sys_security_acl display_value="x_1968711_constr_0_ai_devices">0cee47693b40c310f72a8e0f23e45ad5</sys_security_acl><sys_update_name>sys_security_acl_role_4cee47693b40c310f72a8e0f23e45ade</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-04 20:07:02</sys_updated_on><sys_user_role display_value="x_1968711_constr_0.device_management" name="x_1968711_constr_0.device_management">d52132213b8c8310f72a8e0f23e45a09</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>73465362</payload_hash>
+        <record_name>x_1968711_constr_0_ai_devices.x_1968711_constr_0.device_management</record_name>
+        <reverted_from/>
+        <source>6ad7cfe93b00c310f72a8e0f23e45a42</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-04 20:07:02</sys_created_on>
+        <sys_id>40ee87693b40c310f72a8e0f23e45a01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d5a1b28a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-04 20:07:02</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>00ee87696440c31041c17a2d17a78400</update_guid>
+        <update_guid_history>00ee87696440c31041c17a2d17a78400:73465362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1968711_constr_0_ai_devices.x_1968711_constr_0.device_management">1431c5753bccc310f72a8e0f23e45ab9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-05 04:26:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8283925e8ead47aca368af2522e0a8d1</sys_id>
+        <sys_metadata>4cee47693b40c310f72a8e0f23e45ade</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1968711_constr_0_ai_devices.x_1968711_constr_0.device_management</sys_name>
+        <sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package>
+        <sys_parent display_value="">0cee47693b40c310f72a8e0f23e45ad5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope>
+        <sys_scope_delete display_value="">0824cc3fa87840eeb8445bd2acc437c1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_4cee47693b40c310f72a8e0f23e45ade</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_4cee47693b40c310f72a8e0f23e45ade">40ee87693b40c310f72a8e0f23e45a01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-05 04:26:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

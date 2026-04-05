@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="device_category" table="x_1968711_constr_0_ai_devices" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>device_category</element>
+            <name>x_1968711_constr_0_ai_devices</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 05:47:54</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>device_category</sys_name>
+            <sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope>
+            <sys_update_name>sys_choice_x_1968711_constr_0_ai_devices_device_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 05:47:54</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AR Glasses</label>
+            <language>en</language>
+            <name>x_1968711_constr_0_ai_devices</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 05:48:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 05:48:22</sys_updated_on>
+            <value>ar glasses</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Environmental Sensor</label>
+            <language>en</language>
+            <name>x_1968711_constr_0_ai_devices</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 05:49:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 05:49:14</sys_updated_on>
+            <value>environmental sensor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Safety Drone</label>
+            <language>en</language>
+            <name>x_1968711_constr_0_ai_devices</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 05:47:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 05:47:54</sys_updated_on>
+            <value>safety drone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Smart Hats</label>
+            <language>en</language>
+            <name>x_1968711_constr_0_ai_devices</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 05:48:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 05:48:46</sys_updated_on>
+            <value>smart hats</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-05 11:07:17</sys_created_on>
+        <sys_id>25dcd6f13bc80710f72a8e0f23e45aae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1968711_constr_0_device_request.x_1968711_constr_0.dispatch_management</sys_name>
+        <sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope>
+        <sys_security_acl display_value="x_1968711_constr_0_device_request">ace57a693b8c8310f72a8e0f23e45a26</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_25dcd6f13bc80710f72a8e0f23e45aae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-05 11:07:17</sys_updated_on>
+        <sys_user_role display_value="x_1968711_constr_0.dispatch_management" name="x_1968711_constr_0.dispatch_management">bea132613b8c8310f72a8e0f23e45ae2</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
