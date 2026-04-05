@@ -8,13 +8,13 @@
         <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow/>
+        <flow_designer_flow display_value="Order AI Devices Flow">e4d8c7b93b004710f72a8e0f23e45ac6</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -67,21 +67,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-05 12:06:18</sys_created_on>
         <sys_id>7be9667d3b0c0710f72a8e0f23e45a0c</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_name>Order AI Devices</sys_name>
         <sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package>
         <sys_policy/>
         <sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope>
         <sys_update_name>sc_cat_item_7be9667d3b0c0710f72a8e0f23e45a0c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2026-04-05 12:59:33</sys_updated_on>
+        <sys_updated_on>2026-04-05 15:50:49</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>6</version>
+        <version>21</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>

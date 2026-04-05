@@ -42,20 +42,20 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
-        <mask_use_encryption>true</mask_use_encryption>
-        <name>delivery_details</name>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>total_amount</name>
         <no_auto_populate_also_request_for>false</no_auto_populate_also_request_for>
         <not_available_conversation>false</not_available_conversation>
-        <order>700</order>
+        <order>500</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Delivery Details</question_text>
-        <read_only>false</read_only>
+        <question_text>Total Amount</question_text>
+        <read_only>true</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
@@ -82,20 +82,20 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-04-05 12:18:08</sys_created_on>
-        <sys_id>ac0d6ef13b4c0710f72a8e0f23e45a84</sys_id>
+        <sys_created_on>2026-04-05 13:17:44</sys_created_on>
+        <sys_id>e39af2fd3b8c0710f72a8e0f23e45aae</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name>Delivery Details</sys_name>
+        <sys_name>Total Amount</sys_name>
         <sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package>
         <sys_policy/>
         <sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope>
-        <sys_update_name>item_option_new_ac0d6ef13b4c0710f72a8e0f23e45a84</sys_update_name>
+        <sys_update_name>item_option_new_e39af2fd3b8c0710f72a8e0f23e45aae</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-05 15:50:49</sys_updated_on>
+        <sys_updated_on>2026-04-05 13:23:04</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>2</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -111,22 +111,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=ac0d6ef13b4c0710f72a8e0f23e45a84"/>
-    <fx_price action="delete_multiple" query="id=ac0d6ef13b4c0710f72a8e0f23e45a84"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=e39af2fd3b8c0710f72a8e0f23e45aae"/>
+    <fx_price action="delete_multiple" query="id=e39af2fd3b8c0710f72a8e0f23e45aae"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>ac0d6ef13b4c0710f72a8e0f23e45a84</id>
+        <id>e39af2fd3b8c0710f72a8e0f23e45aae</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-04-05 12:18:08</sys_created_on>
-        <sys_id>892d62353b4c0710f72a8e0f23e45ac0</sys_id>
+        <sys_created_on>2026-04-05 13:17:44</sys_created_on>
+        <sys_id>d6ca3afd3b8c0710f72a8e0f23e45afa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-05 12:18:08</sys_updated_on>
+        <sys_updated_on>2026-04-05 13:17:44</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -134,16 +134,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>ac0d6ef13b4c0710f72a8e0f23e45a84</id>
+        <id>e39af2fd3b8c0710f72a8e0f23e45aae</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-04-05 12:18:08</sys_created_on>
-        <sys_id>0d2d62353b4c0710f72a8e0f23e45abf</sys_id>
+        <sys_created_on>2026-04-05 13:17:44</sys_created_on>
+        <sys_id>9eca3afd3b8c0710f72a8e0f23e45af9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-05 12:18:08</sys_updated_on>
+        <sys_updated_on>2026-04-05 13:17:44</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

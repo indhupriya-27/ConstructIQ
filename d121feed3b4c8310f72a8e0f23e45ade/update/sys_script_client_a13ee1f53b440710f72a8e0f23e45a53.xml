@@ -15,6 +15,14 @@
    if(g_form.getValue('device_name')==''){
    	g_form.setSectionDisplay('device_description',false); 
    	g_form.setSectionDisplay('delivery_details',false);
+   }else{
+	g_form.getReference('device_name', getDetails);
+	function getDetails(details) {
+            g_form.setValue('model', details.model_number);
+            g_form.setValue('device_description', details.short_description);
+            g_form.setValue('price', details.price);
+            g_form.setValue('warranty_date', details.warranty_expiration);
+        }
    }
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -23,7 +31,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a13ee1f53b440710f72a8e0f23e45a53</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Hide the Section</sys_name>
         <sys_overrides/>
         <sys_package display_value="ConstructIQ" source="x_1968711_constr_0">d121feed3b4c8310f72a8e0f23e45ade</sys_package>
@@ -31,7 +39,7 @@
         <sys_scope display_value="ConstructIQ">d121feed3b4c8310f72a8e0f23e45ade</sys_scope>
         <sys_update_name>sys_script_client_a13ee1f53b440710f72a8e0f23e45a53</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-05 09:50:51</sys_updated_on>
+        <sys_updated_on>2026-04-05 16:11:29</sys_updated_on>
         <table>x_1968711_constr_0_device_request</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
